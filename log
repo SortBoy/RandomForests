@@ -1,0 +1,3 @@
+较上一个版本的改动：
+bool C4_5AttributeSelectionMethod::HandleContinuousAttribute(int attribute)
+修正了min_split
